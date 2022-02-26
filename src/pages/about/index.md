@@ -1,19 +1,29 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About 
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+VYNTRADE was founded in 2018 to offer consulting to Wine & Spirit Industry Companies.​
+VYNTRADE has helped producers find the ‘Route to Market’ most appropriate for their business.​
+VYNTRADE has also developed numerous brand concepts from inception to market implementation.​
+VYNTRADE has evolved to offer a ‘Vineyard to Trade’ Direct Wine Sales Distribution Platform.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+## Founders
+ Daniel A Nelson
+ President & CEO – VYNTRADE LLC​
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+ Dan started in the Adult Beverage Industry by working as a Restaurant Manager and Wine Steward at the world renowned Bern’s Steak House. He then moved to the distributor side of the business working for Premier Beverage in Orlando Florida calling on A-list white table cloth restaurants and the top retail accounts.​
+ He then moved to the supplier side by working for Paterno Imports where he was promoted from District Manager to Divisional Manager to Regional Manager where he was responsible for over 100 distributors in 18 states.​
+ Dan then worked for several California wineries as East Coast Manager and National Sales Manager including EOS Estate Winery, Norman Vineyards and Castoro Cellars.​
+ Dan has over 30 years experience in brand marketing and national sales.​
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Steven M Rowland
+Founder and Managing Director– VYNTRADE LLC
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Steve started in the Adult Beverage Industry by working as a Hotel Food and Beverage Director with Omni and Marriott. He then moved to the distributor side of the business working for Broudy-Kantor and Forman Brothers (R-NDC)
+
+He then moved to the supplier side by working for Terlato Wines, Pasternak (Chateau Lafite), Billington Wines and finally Vintners Alliance, an InVivo Wine Company. where he was National Accounts Manager, National Sales Manager and Managing Director.
+
+Steve has traveled extensively throughout Europe, South America and the United States, working closely with the winemaking teams to develop, successful private label and Vine to Wine Brands that are sold in the US.​
+
+Steve has over 30 years experience in brand marketing and National sales.​

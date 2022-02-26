@@ -1,7 +1,10 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
-import Layout from "../components/Layout";
+import { Helmet } from 'react-helmet'
+import Layout from '../components/layout2'
+import background from '../images/hero-background.png'
+
 import Content, { HTMLContent } from "../components/Content";
 
 // eslint-disable-next-line
@@ -9,20 +12,25 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
+   <div>
+    <Helmet>
+    <title>Vyntrade  About</title>
+    <meta name="description" content="VYNTRADE was founded in 2018 to offer consulting to Wine & Spirit Industry Companies.​" />
+    <meta name="theme-color" content="black" />
+  </Helmet>
+<Layout>
+  <div className="pad2" style={{backgroundImage: "url(" + background + ")"}}>
+    <div className="page-container" >
+              <h1>
                 {title}
-              </h2>
-              <PageContent className="content" content={content} />
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+              </h1>
+              <PageContent className= "page-container" content={content} />
+              </div>
+ </div>
+  </Layout>
+    </div>
+          
+    
   );
 };
 
@@ -36,13 +44,13 @@ const AboutPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
-    <Layout>
+   
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
       />
-    </Layout>
+
   );
 };
 
