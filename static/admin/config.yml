@@ -12,8 +12,7 @@ local_backend: true
 media_folder: static/img
 public_folder: /img
 
-collections:
-  
+collections:  
   - name: "pages"
     label: "Pages"
     files:     
