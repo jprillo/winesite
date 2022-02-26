@@ -31,6 +31,7 @@ module.exports = {
     },
     `gatsby-plugin-image`,
     "gatsby-plugin-sharp",
+    `gatsby-plugin-netlify-cms`,
     "gatsby-transformer-sharp",
     {
       resolve: "gatsby-transformer-remark",
@@ -60,12 +61,7 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: "gatsby-plugin-netlify-cms",
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-      },
-    },
+
     {
       resolve: "gatsby-plugin-purgecss", // purges all unused/unreferenced css rules
       options: {
